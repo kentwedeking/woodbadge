@@ -99,7 +99,6 @@ Proposed Goal Schedule:
 - Described history behind Career Arrows.  Discussed that many of the Pack and Troop leaders remembered these from their Scouting histories.
     - Discussed that the Ceremonies in the 80's and 90's allowed the actual shooting of arrows into targets during the ceremony.
     - Not allowed anymore.  Many people wish it was.
-
 ![image](Images/CompletedArrowsAtCeremony.jpg)
 - Goal complete 18 February 2024
 
