@@ -1,10 +1,8 @@
 ![image](Images/WoodBadge.png) 
 # Wood Badge Ticket for Kent Wedeking
 
-|  |  |
-| ------ | ------ |  
-| Name | Kent Wedeking |  
-| Course Number | C4-172-23 |  
-| Email | kent.wedeking@gmail.com |
-| Home Phone Number | 319.350.9677 |
+Kent Wedeking
+Course C4-172-23
+kent.wedeking@gmail.com
+319.350.9677
 
