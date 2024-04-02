@@ -2,7 +2,8 @@
 # Wood Badge Ticket for Kent Wedeking
 Class 4-172-23
 
-| --- | --- |  
+| Field | Value |
+| ------ | ------ |  
 | Name | Kent Wedeking |  
 | Course Number | C4-172-23 |  
 
