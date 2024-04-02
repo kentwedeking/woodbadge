@@ -1,14 +1,10 @@
 ![image](Images/WoodBadge.png) 
 # Wood Badge Ticket for Kent Wedeking
-Class 4-172-23
 
-| Field | Value |
+|  |  |
 | ------ | ------ |  
 | Name | Kent Wedeking |  
 | Course Number | C4-172-23 |  
+| Email | kent.wedeking@gmail.com |
+| Home Phone Number | 319.350.9677 |
 
-| Month | Savings |
-| -------- | ------- |
-| January | $250 |
-| February | $80 |
-| March | $420 |
