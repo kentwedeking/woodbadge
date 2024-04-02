@@ -1,3 +1,4 @@
+![image](Images/WoodBadge.png) 
 # Wood Badge Ticket for Kent Wedeking
 Class 4-172-23
 
