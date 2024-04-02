@@ -24,8 +24,7 @@
 | Your ticket completion deadline is 8 April 2025 |
 | All timelines are assumed to be days/weeks/months from 9 October 2023 |
 
-## Goal #1
-### Ticket Goal
+## Ticket Goal #1
 To create a program where each Arrow of Light (AOL) den member builds and decorates an AOL Career arrow, representing his/her time in the Pack.
 ### S (Specific)
 Each Scout will build a Career arrow which indicates time spent in Cub Scouts and Adventures and Awards received during that time.  This arrow will be a tangible and visible reminder of their Bridging to Scouts BSA and their accomplishments as a Cub Scout.
@@ -62,8 +61,7 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
-## Goal #2
-### Ticket Goal
+## Ticket Goal #2
 User the Career Arrows made by Webelo 2's in Goal #1 in their Blue & Gold Banquet.
 ### S (Specific)
 Troop 55, the "parent" or "partner" Troop to Pack 55 takes care of the Bridging Ceremony for new Scouts briding into the Troop at the Blue & Gold Banquets.  
@@ -105,8 +103,7 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
-## Goal #3
-### Ticket Goal
+## Ticket Goal #3
 To create an information package and presentation to educate Pack adults and leaders on BALOO training.
 ### S (Specific)
 Educate pack leaders and adults on the value and benefits of having more BALOO training leaders.  This facilities more Pack outdoor and overnight activity options, and lessens the stain on the small number of existing BALOO trained leaders, who will be transitioning out of the Pack in 16 months.
@@ -129,8 +126,7 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
-## Goal #4
-### Ticket Goal
+## Ticket Goal #4
 To create a reusable graphical Den and Pack Calendar Template.
 ### S (Specific)
 Our Pack and Den would benefit from a calendar which can be continually updated and distributed, allowing an overview of the entire year at a glance.  Graphically the information is much easier to understand and digest than in textual/email format.
@@ -154,8 +150,7 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
-## Goal #5
-### Ticket Goal
+## Ticket Goal #5
 To increase the available opportunities for outdoor winter events for our Pack Youth and Adults.
 ### S (Specific)
 Goal is to hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.
