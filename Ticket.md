@@ -52,6 +52,7 @@ Proposed Goal Schedule:
 - Changed Packs from 27 to 55 in December 2023.
 - Decided to accelerate timeline to complete Career Arrows for Blue & Gold Banquet for 2024 (12 months ahead of schedule).
 - Ordered kits from ArrowAwardKits.com [here](https://www.awardarrowkits.com/arrow-of-light-cub-scout-kit-p-1.html).
+    - Ordered Qty 6 Arrow Kits for the 4 Webelo 2's, with two extras for demonstration.
 - Current Webelos 2 scouts built arrows in January and Feburary 2024.
     - Instructions were good enough to build on one without outside support.
 - Displayed arrows at Blue & Gold Banquet/Bridging Ceremony on 18 Feb 2024 with pack and members of Troop 55.
@@ -63,25 +64,44 @@ Date:
 
 ## Goal #2
 ### Ticket Goal
-Implement a modified Arrow of Light Bridging Ceremony which uses the Carrer Arrows from Goal 1.
+User the Career Arrows made by Webelo 2's in Goal #1 in their Blue & Gold Banquet.
 ### S (Specific)
-Modify the AOL Bridging ceremony such that the Career Arrows are Fired into a target.  After the Scouts have bridged into Scouts BSA they will retrieve their Arrow from the target, completing their Arrow of Light Journey.
+Troop 55, the "parent" or "partner" Troop to Pack 55 takes care of the Bridging Ceremony for new Scouts briding into the Troop at the Blue & Gold Banquets.  
+As they have an existing ceremony, we want to integrate the Career Arrows into the Ceremony.  
+The Scouts will have the opportunity to share what their Career Arrows are, and what they represent.
 ### M (Measureable)
 Goal will be complete when one (1) Webelos 2/AOL den to complete this Bridging Ceremony.
 ### A (Attainable)
-I will work with the Cub Master and Pack Committee to get the concept approved.  I will work with the Cub Master and the Charter Organization to identify a suitable and safe location to conduct the ceremony.  I will work with the Cub Master and Charter Organization to ensure the safety of the Scouts, their families, and all in attendance.
+I will work with the Scoutmaster and Senior Patrol Leader of the Troop to recognize the Scouts by presenting their Career Arrows to them during the ceremony.  
+I will describe the purpose and history behind the Career Arrow, and allow the Scouts to display their Arrows to the Scouts, Family, and Friends present.  
+I will also open up for the gathered group to ask any questions about the arrows to myself and to the scouts.
 ### R (Relevant)
-My Cub Scout Pack did this when I bridged to Scouts BSA, and I still have my arrow today.  It hung in my room for many years.  I want the Scouts to have the same kinds of lasting memories from their AOL ceremony as I still do.
+My Cub Scout Pack did something similar to this when I bridged to Scouts BSA, and I still have my arrow today.  It hung in my room for many years.  
+I want the Scouts to have the same kinds of lasting memories from their AOL ceremony as I still do.
 ### T (Timely)
 Proposed Goal Schedule:  
-1. Reach out to Cub Master and Pack Committee within 1 month.  
-1. Reach out to Charter Org within 3 months.  
-1. Present modified script for AOL Bridging Ceremony within 8 months for feedback.  
-1. Hold AOL Bridging Ceremony at Blue and Gold Banquet in February 2024.
+1. Reach out to Scoutmaster and/or Senior Patrol Leader within 3 months.  
+1. Ensure Arrows are complete before Blue & Gold Banquet.  
+1. Hold AOL Bridging Ceremony at Blue & Gold Banquet in February 2024.
 
 - Does this Goal promote Diversity?  Yes
 - Does this Goal promote membership growth and retention?  Yes
 - Does this Goal show line of sight to the Youth?  Yes
+
+### Progress Update
+- Changed Packs from 27 to 55 in December 2023.
+- Decided to accelerate timeline to complete Career Arrows for Blue & Gold Banquet for 2024 (12 months ahead of schedule).
+- Scouts completed arrow kids
+- Spoke with Scoutmaster in January 2024 to find out what the Ceremony plan was.
+    - Originally planned to host ceremony ourselves (Webelos 1).
+    - Once we knew the Troop did it we opted to integrate into their Ceremony.
+- Presented arrows to new Scouts at Bridging Ceremony.
+- Described history behind Career Arrows.  Discussed that many of the Pack and Troop leaders remembered these from their Scouting histories.
+    - Discussed that the Ceremonies in the 80's and 90's allowed the actual shooting of arrows into targets during the ceremony.
+    - Not allowed anymore.  Many people wish it was.
+
+![image](Images/CompletedArrowsAtCeremony.jpg)
+- Goal complete 18 February 2024
 
 Ticket Counselor Approval:  
 Date:  
