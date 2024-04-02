@@ -52,7 +52,8 @@ Proposed Goal Schedule:
 - Changed Packs from 27 to 55 in December 2023.
 - Decided to accelerate timeline to complete Career Arrows for Blue & Gold Banquet for 2024 (12 months ahead of schedule).
 - Ordered kits from ArrowAwardKits.com [here](https://www.awardarrowkits.com/arrow-of-light-cub-scout-kit-p-1.html).
-- Current Webelos 2 scouts built arrows in January and Feburary 2024
+- Current Webelos 2 scouts built arrows in January and Feburary 2024.
+    - Instructions were good enough to build on one without outside support.
 - Displayed arrows at Blue & Gold Banquet/Bridging Ceremony on 18 Feb 2024 with pack and members of Troop 55.
 ![image](Images/CompletedArrowsAtCeremony.jpg)
 - Goal complete 18 February 2024
