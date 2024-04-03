@@ -106,13 +106,13 @@ Date:
 ## Ticket Goal #3
 To create an information package and presentation to educate Pack adults and leaders on BALOO training.
 ### S (Specific)
-Educate pack leaders and adults on the value and benefits of having more BALOO training leaders.  This facilities more Pack outdoor and overnight activity options, and lessens the stain on the small number of existing BALOO trained leaders, who will be transitioning out of the Pack in 16 months.
+Educate pack leaders and adults on the value and benefits of having more BALOO training leaders.  This facilities more Pack outdoor and overnight activity options, and lessens the strain on the small number of existing BALOO trained leaders, who will be not be in the Pack forever.
 ### M (Measureable)
-Goal will be complete when information on BALOO is presented at 3 Pack meetings and 5 Den Meetings (1 for each Cub Scout Rank Den).
+Goal will be complete when information on BALOO is presented at 2 Pack meetings and 2 Den Meetings (1 for each Cub Scout Den today).
 ### A (Attainable)
 Information on BALOO is already available at the district and council level.  A cohesive presentation and handout can be created which enhances the minimal effort put on recruiting today.
 ### R (Relevant)
-Our current BALOO trained leaders will be leaving the Pack in 16 months.  Our Pack does a minimum of 2 outdoor/overnight activities per Scout Year, and I want to see this number continue or increase.  Camping and being outdoors is at the heart of what I want my Scouts to experience and benefit from.
+One of our current BALOO trained leaders will be leaving the Pack in 16 months.  Our Pack does a minimum of 1 outdoor/overnight activities per Scout Year, and I want to see this number continue or increase.  Camping and being outdoors is at the heart of what I want my Scouts to experience and benefit from.
 ### T (Timely)
 Proposed Goal Schedule:  
 1. Research available information within 2 months.  
@@ -123,25 +123,31 @@ Proposed Goal Schedule:
 - Does this Goal promote membership growth and retention?  Yes
 - Does this Goal show line of sight to the Youth?  Yes
 
+### Progress Update
+- Created first draft of basic presentation. [BALOO Presentation](BALOO/BALOO.pptx)
+    - Its kinda boring.  Not a lot of "wow" factor.
+- Debating if instead of a presentation this should just be a single flyer?
+    - That might actually make more sense.
+
 Ticket Counselor Approval:  
 Date:  
 
 ## Ticket Goal #4
-To create a reusable graphical Den and Pack Calendar Template.
+~~To create a reusable graphical Den and Pack Calendar Template.~~
 ### S (Specific)
-Our Pack and Den would benefit from a calendar which can be continually updated and distributed, allowing an overview of the entire year at a glance.  Graphically the information is much easier to understand and digest than in textual/email format.
+~~Our Pack and Den would benefit from a calendar which can be continually updated and distributed, allowing an overview of the entire year at a glance.  Graphically the information is much easier to understand and digest than in textual/email format.~~
 ### M (Measureable)
-The Calendar template will be designed for a full Scout year (July to June).  It will be color coded for Pack and Den Level meetings and events.  It will be completed when the Pack Calendar is filled out, at least 1 Den Calendar is filled out, and it is accessible to the entire Pack either electronically or in paper form.
+~~The Calendar template will be designed for a full Scout year (July to June).  It will be color coded for Pack and Den Level meetings and events.  It will be completed when the Pack Calendar is filled out, at least 1 Den Calendar is filled out, and it is accessible to the entire Pack either electronically or in paper form.~~
 ### A (Attainable)
-Templates are available online, as well as examples provided by other Scout leaders.  Electronic availability, while ideal, presents both a challenge and an opportunity to make the information available and accessible, while limiting access that might otherwise cause data integrity issues.
+~~Templates are available online, as well as examples provided by other Scout leaders.  Electronic availability, while ideal, presents both a challenge and an opportunity to make the information available and accessible, while limiting access that might otherwise cause data integrity issues.~~
 ### R (Relevant)
-Successful planning is the key to every successful pack or troop.  My own planning skills have lacked during my career but have turned around to great success of late.  However, I am lacking a good way to provide an overview to the time commitments for my scouts.
+~~Successful planning is the key to every successful pack or troop.  My own planning skills have lacked during my career but have turned around to great success of late.  However, I am lacking a good way to provide an overview to the time commitments for my scouts.~~
 ### T (Timely)
-Proposed Goal Schedule:  
-1. Gather and review templates and implementation examples within 2 months.  
-1. Implement proposed calendar format within 3 months.  
-1. Submit for feedback with Pack leaders and Adults within 4 months.  
-1. Rollout Pack Calendar and Den 2 (Webelos 1) calendar within 5 months.
+~~Proposed Goal Schedule:~~
+~~1. Gather and review templates and implementation examples within 2 months.~~
+~~1. Implement proposed calendar format within 3 months.~~
+~~1. Submit for feedback with Pack leaders and Adults within 4 months.~~
+~~1. Rollout Pack Calendar and Den 2 (Webelos 1) calendar within 5 months.~~
 
 - Does this Goal promote Diversity?  No
 - Does this Goal promote membership growth and retention?  Yes
