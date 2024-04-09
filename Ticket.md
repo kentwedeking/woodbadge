@@ -1,28 +1,30 @@
-![image](Images/WoodBadge.png) 
+<img src="Images/WoodBadge.png" width="200" height="200" />  
+
 # Wood Badge Ticket for Kent Wedeking
 
-| Personal Information |
-| ------ |
-| Kent Wedeking |
-| Course C4-172-23 |
-| kent.wedeking@gmail.com |
-| 319.350.9677 |
-| Cub Scout Den Leader, Pack 55 |
+### Personal Information
+Kent Wedeking  
+Course C4-172-23  
+kent.wedeking@gmail.com  
+319.350.9677  
+Cub Scout Den Leader, Pack 55  
 
-| My Personal Vision of Success |
-| ------ |
-| To use my experiences and skills to provide meaningful experience for our park, now and in the future. |
+### My Personal Vision of Success
+To use my experiences and skills to provide meaningful experience for our park, now and in the future.
 
-| Ticket Counselor |  Course Director |
-| ------ | ------ |
-| Paula Gunter | Kevin Kropf |
-| 319.329.4538 | |
-| psgunter@netins.net | kkropf42@yahoo.com |
+### Ticket Counselor
+Paula Gunter  
+319.329.4538  
+psgunter@netins.net  
 
-| You have 18 months to work your ticket. If you have a question or concern about any part of your ticket, please contact your Ticket Counselor as soon as possible to discuss the issue. |
-| ------ |
-| Your ticket completion deadline is 8 April 2025 |
-| All timelines are assumed to be days/weeks/months from 9 October 2023 |
+### Course Director
+Kevin Kropf  
+kkropf42@yahoo.com  
+
+### Timeline
+You have 18 months to work your ticket. If you have a question or concern about any part of your ticket, please contact your Ticket Counselor as soon as possible to discuss the issue.  
+Your ticket completion deadline is 8 April 2025.  
+All timelines are assumed to be days/weeks/months from 9 October 2023.  
 
 ## Ticket Goal #1
 To create a program where each Arrow of Light (AOL) den member builds and decorates an AOL Career arrow, representing his/her time in the Pack.
@@ -54,8 +56,8 @@ Proposed Goal Schedule:
     - Ordered Qty 6 Arrow Kits for the 4 Webelo 2's, with two extras for demonstration.
 - Current Webelos 2 scouts built arrows in January and Feburary 2024.
     - Instructions were good enough to build on one without outside support.
-- Displayed arrows at Blue & Gold Banquet/Bridging Ceremony on 18 Feb 2024 with pack and members of Troop 55.
-![image](Images/CompletedArrowsAtCeremony.jpg)
+- Displayed arrows at Blue & Gold Banquet/Bridging Ceremony on 18 Feb 2024 with pack and members of Troop 55.  
+<img src="Images/CompletedArrowsAtCeremony.jpg" width="750" />
 - Goal complete 18 February 2024
 
 Ticket Counselor Approval:  
@@ -96,21 +98,22 @@ Proposed Goal Schedule:
 - Presented arrows to new Scouts at Bridging Ceremony.
 - Described history behind Career Arrows.  Discussed that many of the Pack and Troop leaders remembered these from their Scouting histories.
     - Discussed that the Ceremonies in the 80's and 90's allowed the actual shooting of arrows into targets during the ceremony.
-    - Not allowed anymore.  Many people wish it was.
-![image](Images/CompletedArrowsAtCeremony.jpg)
+    - Not allowed anymore.  Many people wish it was.  
+<img src="Images/CompletedArrowsAtCeremony.jpg" width="750" />  
 - Goal complete 18 February 2024
 
 Ticket Counselor Approval:  
 Date:  
 
 ## Ticket Goal #3
-To create an information package and presentation to educate Pack adults and leaders on BALOO training.
+Gather information about BALOO training and present to Pack Committee and to all Den Leaders.
 ### S (Specific)
 Educate pack leaders and adults on the value and benefits of having more BALOO training leaders.  This facilities more Pack outdoor and overnight activity options, and lessens the strain on the small number of existing BALOO trained leaders, who will be not be in the Pack forever.
 ### M (Measureable)
-Goal will be complete when information on BALOO is presented at 2 Pack meetings and 2 Den Meetings (1 for each Cub Scout Den today).
+Goal will be complete when information on BALOO is presented at 1 Pack meetings and 1 Pack Committee Meeting.
 ### A (Attainable)
 Information on BALOO is already available at the district and council level.  A cohesive presentation and handout can be created which enhances the minimal effort put on recruiting today.
+Gather existing information available.  Gather dates and materials (if available) for next BALOO training.  Assembly a BALOO FAQ as a handout.
 ### R (Relevant)
 One of our current BALOO trained leaders will be leaving the Pack in 16 months.  Our Pack does a minimum of 1 outdoor/overnight activities per Scout Year, and I want to see this number continue or increase.  Camping and being outdoors is at the heart of what I want my Scouts to experience and benefit from.
 ### T (Timely)
@@ -119,7 +122,7 @@ Proposed Goal Schedule:
 1. Create First Draft of presentation and handouts within 6 months.  
 1. First presentation complete within 9 months.  Goal complete within 16 months.
 
-- Does this Goal promote Diversity?  No
+- Does this Goal promote Diversity?  Yes
 - Does this Goal promote membership growth and retention?  Yes
 - Does this Goal show line of sight to the Youth?  Yes
 
@@ -128,6 +131,8 @@ Proposed Goal Schedule:
     - Its kinda boring.  Not a lot of "wow" factor.
 - Debating if instead of a presentation this should just be a single flyer?
     - That might actually make more sense.
+    - Thinking FAQ handout might be more appropriate
+        - Does District or Council already have something like this?
 
 Ticket Counselor Approval:  
 Date:  
@@ -149,32 +154,32 @@ Date:
 ~~1. Submit for feedback with Pack leaders and Adults within 4 months.~~
 ~~1. Rollout Pack Calendar and Den 2 (Webelos 1) calendar within 5 months.~~
 
-- Does this Goal promote Diversity?  No
-- Does this Goal promote membership growth and retention?  Yes
-- Does this Goal show line of sight to the Youth?  Yes
+- Does this Goal promote Diversity?  ~~No~~
+- Does this Goal promote membership growth and retention?  ~~Yes~~
+- Does this Goal show line of sight to the Youth?  ~~Yes~~
 
 Ticket Counselor Approval:  
 Date:  
 
 ## Ticket Goal #5
-To increase the available opportunities for outdoor winter events for our Pack Youth and Adults.
+~~To increase the available opportunities for outdoor winter events for our Pack Youth and Adults.~~
 ### S (Specific)
-Goal is to hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.
+~~Goal is to hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.~~
 ### M (Measureable)
-Hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.
+~~Hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.~~
 ### A (Attainable)
-Our troop has an established record of renting the Allsop Center for a winter campout.  Indian Creek Nature Center offers snowshoe rentals and has plentiful trails.
+~~Our troop has an established record of renting the Allsop Center for a winter campout.  Indian Creek Nature Center offers snowshoe rentals and has plentiful trails.~~
 ### R (Relevant)
-Our Pack does more outdoor activities during the Fall, Spring, and Summer.  Providing more opportunities in Winter helps foster willingness and enjoyment for those opportunities later in life.
+~~Our Pack does more outdoor activities during the Fall, Spring, and Summer.  Providing more opportunities in Winter helps foster willingness and enjoyment for those opportunities later in life.~~
 ### T (Timely)
-Proposed Goal Schedule:  
-1. Schedule Pack overnight opportunity at Allsop Center for January 2024.  
-1. Investigate Winter Activity options at Indian Creek Nature Center and Wikiup Hill within 6 months.  
-1. Schedule an outdoor Pack or Den activity for February 2024.
+~~Proposed Goal Schedule:~~
+~~1. Schedule Pack overnight opportunity at Allsop Center for January 2024.~~
+~~1. Investigate Winter Activity options at Indian Creek Nature Center and Wikiup Hill within 6 months.~~
+~~1. Schedule an outdoor Pack or Den activity for February 2024.~~
 
-- Does this Goal promote Diversity?  Yes
-- Does this Goal promote membership growth and retention?  Yes
-- Does this Goal show line of sight to the Youth?  Yes
+- Does this Goal promote Diversity?  ~~Yes~~
+- Does this Goal promote membership growth and retention?  ~~Yes~~
+- Does this Goal show line of sight to the Youth?  ~~Yes~~
 
 Ticket Counselor Approval:  
 Date:  
