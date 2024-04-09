@@ -132,7 +132,8 @@ Proposed Goal Schedule:
 - Debating if instead of a presentation this should just be a single flyer?
     - That might actually make more sense.
     - Thinking FAQ handout might be more appropriate
-        - Does District or Council already have something like this?
+        - Does District or Council already have something like this?  
+        Reached out to Council via email on 9 April 2024.
 
 Ticket Counselor Approval:  
 Date:  
