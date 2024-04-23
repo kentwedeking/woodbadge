@@ -139,25 +139,44 @@ Ticket Counselor Approval:
 Date:  
 
 ## Ticket Goal #4
-~~To create a reusable graphical Den and Pack Calendar Template.~~
+To create content for and present basics of Camping (Camping 101) at a Pack meeting.
 ### S (Specific)
-~~Our Pack and Den would benefit from a calendar which can be continually updated and distributed, allowing an overview of the entire year at a glance.  Graphically the information is much easier to understand and digest than in textual/email format.~~
+Our pack is going on our first overnight outdoor campout in a few years the weekend of 3 May 2024.  I will create handouts for a "Camping 101" talk that I will present at an assembled Pack meeting prior to the campout.
 ### M (Measureable)
-~~The Calendar template will be designed for a full Scout year (July to June).  It will be color coded for Pack and Den Level meetings and events.  It will be completed when the Pack Calendar is filled out, at least 1 Den Calendar is filled out, and it is accessible to the entire Pack either electronically or in paper form.~~
+This goal will be complete when
+1. Handouts for presentation are created.
+1. Presentation and demostation materials are gathered.
+1. Handout is presented at a Pack meeting.
 ### A (Attainable)
-~~Templates are available online, as well as examples provided by other Scout leaders.  Electronic availability, while ideal, presents both a challenge and an opportunity to make the information available and accessible, while limiting access that might otherwise cause data integrity issues.~~
+I have considerable experience camping, as a former Cub/Boy Scout and as a BALOO trained leader.  We have a Pack meeting 1.5 weeks before our campout, on 23 April 2024.
 ### R (Relevant)
-~~Successful planning is the key to every successful pack or troop.  My own planning skills have lacked during my career but have turned around to great success of late.  However, I am lacking a good way to provide an overview to the time commitments for my scouts.~~
+Our Pack is going on our first overnight outdoor campout in a couple years.  We have many new scouts and families, and have lost some of the older scouts and families.  Camping can be a stressful event, and I want to setup our scouts and families for success.
 ### T (Timely)
-~~Proposed Goal Schedule:~~
-~~1. Gather and review templates and implementation examples within 2 months.~~
-~~1. Implement proposed calendar format within 3 months.~~
-~~1. Submit for feedback with Pack leaders and Adults within 4 months.~~
-~~1. Rollout Pack Calendar and Den 2 (Webelos 1) calendar within 5 months.~~
+Proposed Goal Schedule:
+1. Create handout for talk before Pack Meeting.
+1. Assembly materials for presentation.
+1. Give talk at 23 April 2024 Pack meeting.
 
-- Does this Goal promote Diversity?  ~~No~~
-- Does this Goal promote membership growth and retention?  ~~Yes~~
-- Does this Goal show line of sight to the Youth?  ~~Yes~~
+- Does this Goal promote Diversity?  Yes
+- Does this Goal promote membership growth and retention?  Yes
+- Does this Goal show line of sight to the Youth?  Yes
+
+### Progress Update
+- Created Handout [Camping 101 Handout](Training/Camping%20101.docx)
+- Created list of items for talk
+    - Wagon
+    - Tote
+    - Black plastic garbage bags
+    - tent
+    - groundcloth
+    - flashlights
+    - small first aid kit
+    - grocery sacks
+    - chair
+    - football
+    - battery pack
+    - rain boots
+- Presenting at 23 April 2024 Pack meeting at Wakema park.
 
 Ticket Counselor Approval:  
 Date:  
