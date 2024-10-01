@@ -106,39 +106,6 @@ Ticket Counselor Approval:
 Date:  
 
 ## Ticket Goal #3
-Gather information about BALOO training and present to Pack Committee and to all Den Leaders.
-### S (Specific)
-Educate pack leaders and adults on the value and benefits of having more BALOO training leaders.  This facilities more Pack outdoor and overnight activity options, and lessens the strain on the small number of existing BALOO trained leaders, who will be not be in the Pack forever.
-### M (Measureable)
-Goal will be complete when information on BALOO is presented at 1 Pack meetings and 1 Pack Committee Meeting.
-### A (Attainable)
-Information on BALOO is already available at the district and council level.  A cohesive presentation and handout can be created which enhances the minimal effort put on recruiting today.
-Gather existing information available.  Gather dates and materials (if available) for next BALOO training.  Assembly a BALOO FAQ as a handout.
-### R (Relevant)
-One of our current BALOO trained leaders will be leaving the Pack in 16 months.  Our Pack does a minimum of 1 outdoor/overnight activities per Scout Year, and I want to see this number continue or increase.  Camping and being outdoors is at the heart of what I want my Scouts to experience and benefit from.
-### T (Timely)
-Proposed Goal Schedule:  
-1. Research available information within 2 months.  
-1. Create First Draft of presentation and handouts within 6 months.  
-1. First presentation complete within 9 months.  Goal complete within 16 months.
-
-- Does this Goal promote Diversity?  Yes
-- Does this Goal promote membership growth and retention?  Yes
-- Does this Goal show line of sight to the Youth?  Yes
-
-### Progress Update
-- Created first draft of basic presentation. [BALOO Presentation](BALOO/BALOO.pptx)
-    - Its kinda boring.  Not a lot of "wow" factor.
-- Debating if instead of a presentation this should just be a single flyer?
-    - That might actually make more sense.
-    - Thinking FAQ handout might be more appropriate
-        - Does District or Council already have something like this?  
-        Reached out to Council via email on 9 April 2024.
-
-Ticket Counselor Approval:  
-Date:  
-
-## Ticket Goal #4
 To create content for and present basics of Camping (Camping 101) at a Pack meeting.
 ### S (Specific)
 Our pack is going on our first overnight outdoor campout in a few years the weekend of 3 May 2024.  I will create handouts for a "Camping 101" talk that I will present at an assembled Pack meeting prior to the campout.
@@ -176,8 +143,37 @@ Proposed Goal Schedule:
     - football
     - battery pack
     - rain boots
-- Presenting at 23 April 2024 Pack meeting at Wakema park.
+- Presented at 23 April 2024 Pack meeting at Wakema park.
 
+Ticket Counselor Approval:  
+Date:  
+
+## Ticket Goal #4
+Complete IOLS Training
+### S (Specific)
+Register for and attend IOLS (Introduction to Outdoor Leader Skills) Training held at Howard H. Cherry Scout Reservation on 28-29 Sept. 2024.
+### M (Measureable)
+Goal will be complete when IOLS is successfully completed and I have received my certificate.
+### A (Attainable)
+IOLS class will be held before 8 April 2025.
+### R (Relevant)
+My son will be bridging from Cub Scouts to Scouts BSA in February 2025 and has already indicated his intention to stay active in scouting.  By attending IOLS I will be a valuable asset to Troop 55 as well as a supporter of my son in his endeavors.
+### T (Timely)
+Proposed Goal Schedule:  
+1. Register for IOLS class.
+1. Attend IOLS class.
+1. Complete IOLS class.
+
+- Does this Goal promote Diversity?  No
+- Does this Goal promote membership growth and retention?  Yes
+- Does this Goal show line of sight to the Youth?  Yes
+
+### Progress Update
+- Successfully registered for IOLS class on 24 Aug 2024.
+- Successfully completed IOLS class held weekend of 28-29 Sept 2024 at Howard H. Cherry Scout Reservation
+   <img src="Images/IOLS1.jpg" width="750" />  
+   <img src="Images/IOLS2.jpg" width="750" />
+  
 Ticket Counselor Approval:  
 Date:  
 
