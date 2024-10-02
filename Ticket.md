@@ -63,6 +63,8 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
+<div style="page-break-after: always;"></div>
+
 ## Ticket Goal #2
 User the Career Arrows made by Webelo 2's in Goal #1 in their Blue & Gold Banquet.
 ### S (Specific)
@@ -104,6 +106,8 @@ Proposed Goal Schedule:
 
 Ticket Counselor Approval:  
 Date:  
+
+<div style="page-break-after: always;"></div>
 
 ## Ticket Goal #3
 To create content for and present basics of Camping (Camping 101) at a Pack meeting.
@@ -148,8 +152,10 @@ Proposed Goal Schedule:
 Ticket Counselor Approval:  
 Date:  
 
+<div style="page-break-after: always;"></div>
+
 ## Ticket Goal #4
-Complete IOLS Training
+Complete IOLS Training in Sept 2024 at Howard H Cherry Scout Reservation.
 ### S (Specific)
 Register for and attend IOLS (Introduction to Outdoor Leader Skills) Training held at Howard H. Cherry Scout Reservation on 28-29 Sept. 2024.
 ### M (Measureable)
@@ -171,31 +177,44 @@ Proposed Goal Schedule:
 ### Progress Update
 - Successfully registered for IOLS class on 24 Aug 2024.
 - Successfully completed IOLS class held weekend of 28-29 Sept 2024 at Howard H. Cherry Scout Reservation
+
    <img src="Images/IOLS1.jpg" width="750" />  
+   
    <img src="Images/IOLS2.jpg" width="750" />
   
 Ticket Counselor Approval:  
 Date:  
 
-## Ticket Goal #5
-~~To increase the available opportunities for outdoor winter events for our Pack Youth and Adults.~~
-### S (Specific)
-~~Goal is to hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.~~
-### M (Measureable)
-~~Hold one (1) Winter Overnight campout (indoors) and one (1) winter outdoor activity for our Pack.~~
-### A (Attainable)
-~~Our troop has an established record of renting the Allsop Center for a winter campout.  Indian Creek Nature Center offers snowshoe rentals and has plentiful trails.~~
-### R (Relevant)
-~~Our Pack does more outdoor activities during the Fall, Spring, and Summer.  Providing more opportunities in Winter helps foster willingness and enjoyment for those opportunities later in life.~~
-### T (Timely)
-~~Proposed Goal Schedule:~~
-~~1. Schedule Pack overnight opportunity at Allsop Center for January 2024.~~
-~~1. Investigate Winter Activity options at Indian Creek Nature Center and Wikiup Hill within 6 months.~~
-~~1. Schedule an outdoor Pack or Den activity for February 2024.~~
+<div style="page-break-after: always;"></div>
 
-- Does this Goal promote Diversity?  ~~Yes~~
-- Does this Goal promote membership growth and retention?  ~~Yes~~
-- Does this Goal show line of sight to the Youth?  ~~Yes~~
+## Ticket Goal #5
+Become an approved Merit Badget Counselor for the Digital Technology and Programming merit badges, and schedule 1 merit badge class (of either) at the Troop 55 Spring Camp-In in March 2024.
+### S (Specific)
+- Become an approved Merit Badge Counselor for Programming and Digital Technology merit badges.
+    - [Programming Merit Badge](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Programming.pdf)
+    - [Digital Technology Merit Badge](https://filestore.scouting.org/filestore/Merit_Badge_ReqandRes/Digital_Technology.pdf)
+- Schedule 1 merit badge class for March 2025 for Troop 55.
+### M (Measureable)
+- Become an approved Merit Badge Counselor for Programming and Digital Technology merit badges.
+- Schedule 1 merit badge class for March 2025 for Troop 55.
+### A (Attainable)
+- Troop 55 does not have a local merit badge counselor for these merit badges.
+- I am a professional Software Architect and a trained instructor for Collins Aerospace.
+### R (Relevant)
+Troop 55 does not currently have a merit badge counselor for either merit badges.
+### T (Timely)
+Proposed Goal Schedule:
+1. Submit Merit Badge Counselor Application to Hawkeye BSA Council by 31 October 2024.
+    - Confirmed Troop 55 does not have counselor for either merit badge (29 Sept 2024).
+    - Confirmed support of Troop 55 Scoutmaster for counselor application (29 Sept 2024).
+1. Schedule 1 merit badge class with Troop 55 by 30 November 2024.  Class will be held at Troop 55 Spring Camp-In at Howard H Cherry Scout Reservation.
+1. Confirm facility requirements at Dakin Dining Hall
+    - Wifi availability.
+    - PC availability (within Troop).
+
+- Does this Goal promote Diversity?  Yes
+- Does this Goal promote membership growth and retention?  Yes
+- Does this Goal show line of sight to the Youth?  Yes
 
 Ticket Counselor Approval:  
 Date:  
