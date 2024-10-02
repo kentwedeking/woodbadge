@@ -208,7 +208,7 @@ Proposed Goal Schedule:
     - Confirmed Troop 55 does not have counselor for either merit badge (29 Sept 2024).
     - Confirmed support of Troop 55 Scoutmaster for counselor application (29 Sept 2024).
     - Submitted Application Merit Badge Counselor Application to Hawkeye Area BSA (1 Oct 2024).
-    - Started MBT Classes on Scouting.org (1 Oct 2024).
+    - Completed MBT Classes on Scouting.org (1 Oct 2024).
 1. Schedule 1 merit badge class with Troop 55 by 30 November 2024.  Class will be held at Troop 55 Spring Camp-In at Howard H Cherry Scout Reservation.
 1. Confirm facility requirements at Dakin Dining Hall
     - Wifi availability.
