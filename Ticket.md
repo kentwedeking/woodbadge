@@ -60,8 +60,8 @@ Proposed Goal Schedule:
 <img src="Images/CompletedArrowsAtCeremony.jpg" width="750" />
 - Goal complete 18 February 2024
 
-Ticket Counselor Approval:  
-Date:  
+Ticket Counselor Approval:  Paula Gunter
+Date:  14 Nov 2024
 
 <div style="page-break-after: always;"></div>
 
@@ -104,8 +104,8 @@ Proposed Goal Schedule:
 <img src="Images/CompletedArrowsAtCeremony.jpg" width="750" />  
 - Goal complete 18 February 2024
 
-Ticket Counselor Approval:  
-Date:  
+Ticket Counselor Approval:  Paula Gunter
+Date:  14 Nov 2024
 
 <div style="page-break-after: always;"></div>
 
@@ -149,8 +149,8 @@ Proposed Goal Schedule:
     - rain boots
 - Presented at 23 April 2024 Pack meeting at Wakema park.
 
-Ticket Counselor Approval:  
-Date:  
+Ticket Counselor Approval:  Paula Gunter
+Date:  14 Nov 2024
 
 <div style="page-break-after: always;"></div>
 
@@ -182,8 +182,8 @@ Proposed Goal Schedule:
    
    <img src="Images/IOLS2.jpg" width="750" />
   
-Ticket Counselor Approval:  
-Date:  
+Ticket Counselor Approval:  Paula Gunter
+Date:  14 Nov 2024
 
 <div style="page-break-after: always;"></div>
 
@@ -223,5 +223,5 @@ Proposed Goal Schedule:
 - Does this Goal promote membership growth and retention?  Yes
 - Does this Goal show line of sight to the Youth?  Yes
 
-Ticket Counselor Approval:  
-Date:  
+Ticket Counselor Approval:  Paula Gunter
+Date:  14 Nov 2024
